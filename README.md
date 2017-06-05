@@ -1,8 +1,12 @@
-"# Practica3B" 
+"# Ingenieria de Requisitos" 
 
-:3 no se
+algun texto
 
-me perdi
+##Subtitulo
+
+.....
 
 
-maldita clase
+###SS
+
+......
